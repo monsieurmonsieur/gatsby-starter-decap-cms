@@ -30,7 +30,7 @@
     "react-helmet": "^6.0.0",
     "sass": "^1.43.2",
     "uuid": "^8.0.0",
-    "node-stream": "1.7.0"
+    "node-stream": "^1.7.0"
   },
   "keywords": [
     "gatsby"
@@ -50,6 +50,6 @@
     "prettier": "^2.0.5"
   },
   "engines": {
-    "node": ">= 18.20.5"
+    "node": ">= 16.20.2"
   }
 }
